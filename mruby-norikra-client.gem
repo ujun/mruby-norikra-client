@@ -1,0 +1,6 @@
+name: mruby-norikra-client
+description: Norikra::Client class
+author: Jun Uchino
+website: https://github.com/ujun/mruby-norikra-client
+protocol: git
+repository: https://github.com/ujun/mruby-norikra-client.git
