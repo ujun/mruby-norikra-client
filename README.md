@@ -1,5 +1,4 @@
-# mruby-norikra-client   [![Build Status](https://travis-ci.org/ujun/mruby-norikra-client.png?branch=master)](https://travis-ci.org/ujun/mruby-norikra-client)
-Norikra::Client class
+# mruby-norikra-client
 
 This is the Norikra client library implementation for mruby(a port from [the library for CRuby](https://github.com/norikra/norikra-client-ruby)), and has the same API as it.
 Therefore, for more information, please see the original page.
